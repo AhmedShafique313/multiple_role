@@ -1,6 +1,7 @@
 # multiple_role
 
 A new Flutter project.
+Flutter Multiple role application with Dart Flutter. Sign up, pages etc.
 
 ## Getting Started
 
